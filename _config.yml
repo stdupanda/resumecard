@@ -1,7 +1,7 @@
 # Site settings
 title: 个人简历
 description: 个人简历
-favicon: /assets/img/avatar.JPG
+favicon: /assets/img/avatar2.ico
 baseurl: https://stdupanda.github.io/resumecard
 url: https://stdupanda.github.io/resumecard
 rss_url: /pages/atom.xml
@@ -20,18 +20,18 @@ author:
   link: https://github.com/stdupanda
   weibo: 暂无
   github: stdupanda
-  linkedin: 暂无
-  twitter: 暂无
+  #已隐藏 linkedin: 暂无
+  #已隐藏 twitter: 暂无
   gavatar: /resumecard/assets/img/avatar.JPG
 # stackoverflow:
 # stackoverflow: 4582127
   workHistory:
     - work1:
       company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
+      location: Auckland, China
       title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
+      started: 2016
+      duration: (2016 - Present)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work2:
       company: Agfa HealthCare
@@ -46,15 +46,16 @@ author:
       title: Java Developer
       started: 2009
       duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: 1.根据实际需求，完成系统Oracle报表统计功能修改，百万行级数据检索统计从2分钟优化到10秒内；<br/>将原系统web容器从tomcat调整到weblogic并配置ehcache，提升系统并发数不低于600，提高系统稳定性；<br/>2.完成与国家政务内网系统webservice接口对接开发，采用spring+quartz实现定时采集Oracle数据并组织，然后调用webservice接口上传。目前系统已稳定运行一年无任何故障。<br/>3.完成系统消息发布管理模块的设计与开发实现，完成项目信息分类统计的实现。<br/>目前该系统已交付甲方运行稳定，基本不需额外投入人力维护。
+
   educationHistory:
     - education1:
-      organization: Northeastern University
-      location: Shenyang, China
+      organization: Shijiazhuang Tiedao University
+      location: Shijiazhuang, China
       degree: Bachelor
       major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
+      started: 2010
+      duration: (2010 - 2014)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
@@ -74,8 +75,5 @@ author:
       name: Android
       percentage: 70%
     - skill4:
-      name: AngularJS
+      name: Linux
       percentage: 70%
-    - skill5:
-      name: Java/Java EE
-      percentage: 90%
