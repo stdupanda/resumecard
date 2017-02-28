@@ -33,31 +33,27 @@ author:
       started: 2016
       duration: (2016.10 - Present)
       description: 1.负责业务流程梳理，常用功能效率优化，数据库结构重新调整。<br/><br/>2.实现旧项目代码重构，调整设计进行模式优化。<br/><br/>3.按照实际业务需求进行新功能的开发.
-	- work2:
+    - work2:
       company: 智能硬件设备安卓App开发
       location: Shijiazhuang, China
       title: Java工程师
       started: 2016
       duration: (2016.09)
       description: 1.负责App整体架构设计和功能实现。<br/><br/>2.调整并发策略实现通讯机制优化，并减轻界面性能消耗。<br/><br/>3.整理项目框架抽象出公司内部通用安卓App框架。
-
-	- work3:
+    - work3:
       company: 温湿度采集设备远程监控系统
       location: Shijiazhuang, China
       title: Java工程师
       started: 2016
       duration: (2016.03 - 2016.09)
       description: 1.负责项目业务分析和框架设计，tomcat集群+DBCache保证多并发下的业务处理能力。<br/><br/>2.SSM实现系统各个业务功能并测试。<br/><br/>3.负责移动端API接口设计、安卓App的设计与开发和测试工作。<br/><br/>4.大并发量情况下调整db分表，优化实时监控功能的查询效率；采用Cache减轻mysql压力。
-
-
-	- work4:
+    - work4:
       company: 某省级证件信息管理系统
       location: Shijiazhuang, China
       title: Java工程师
       started: 2015
       duration: (2015.04 - 2016.02)
       description: 1.负责spring+struts+mybatis架构实现证件录入、证件信息统计、分级权限绑定，UI采用DWZ框架实现。<br/><br/>2.负责oracle数据库维护、支持用户数据统计导出、excel导出。<br/><br/>目前系统已交付甲方验收并运行稳定，除数据维护外基本无需再投入人力。
-
     - work5:
       company: 某省级人员信息管理系统
       location: Shijiazhuang, China
@@ -65,7 +61,6 @@ author:
       started: 2014
       duration: (2014.10 - 2015.04)
       description: 1.负责ssh+easyui架构实现人员信息管理、分类信息统计、按角色审核操作。<br/><br/>2.负责部署RedHat服务器并配置nginx代理静态内容，tomcat提供业务系统动态访问支持，Apache提供对公众门户网站访问支持。<br/><br/>目前系统已交付甲方验收运行稳定，基本无需再投入人力维护。
-
     - work6:
       company: 某省级投资项目管理系统
       location: Shijiazhuang, China
@@ -82,7 +77,7 @@ author:
       major: 计算机
       started: 2010
       duration: (2010 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: 所学课程包括LINUX/UNIX基础、操作系统、C语言程序设计、计算机算法导论、计算机网络等，受益颇深。毕设实现基于SIP协议的Android客户端。<br/>对待工作认真负责，善于沟通、协调，有较强的组织能力与团队精神；<br/>与人和善、乐观上进、有爱心愿意和他人沟通；<br/>上进心强、勤于学习能不断提高自身的能力与综合素质；<br/>积极向上，特别愿意向上争取发展空间.
   languages:
     - language1:
       name: Chinese
