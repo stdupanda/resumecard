@@ -1,12 +1,11 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: 个人简历
+description: 个人简历
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: https://stdupanda.github.io/resumecard
+url: https://stdupanda.github.io/resumecard
 rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
-
+google_analytics: UA-85920043-1
 # Build settings
 markdown: kramdown
 
@@ -14,18 +13,18 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
-  weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  name: 高世雄
+  title: Java 工程师
+  address: 北京海淀区
+  email: 1197591680@qq.com
+  link: https://github.com/stdupanda
+  weibo: 暂无
+  github: stdupanda
+  linkedin: 暂无
+  twitter: 暂无
   gavatar: /resumecard/assets/img/avatar.JPG
-  stackoverflow:
-#  stackoverflow: 4582127
+# stackoverflow:
+# stackoverflow: 4582127
   workHistory:
     - work1:
       company: Finzsoft Solutions Ltd
@@ -63,19 +62,16 @@ author:
       proficiency: Native
     - language2:
       name: English
-      proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
+      proficiency: Sufficient
   programmingSkills:
     - skill1:
-      name: HTML
+      name: Java/Java EE
       percentage: 100%
     - skill2:
-      name: Bootstrap
+      name: Javascript
       percentage: 90%
     - skill3:
-      name: JavaScript
+      name: Android
       percentage: 70%
     - skill4:
       name: AngularJS
