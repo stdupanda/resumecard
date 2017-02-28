@@ -41,19 +41,19 @@ author:
       duration: (2012 - 2014)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work3:
-      company: Citigroup Services and Technology (China) Limited
+      company: 河北省电子认证有限公司
       location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: 1.根据实际需求，完成系统Oracle报表统计功能修改，百万行级数据检索统计从2分钟优化到10秒内；<br/>将原系统web容器从tomcat调整到weblogic并配置ehcache，提升系统并发数不低于600，提高系统稳定性；<br/>2.完成与国家政务内网系统webservice接口对接开发，采用spring+quartz实现定时采集Oracle数据并组织，然后调用webservice接口上传。目前系统已稳定运行一年无任何故障。<br/>3.完成系统消息发布管理模块的设计与开发实现，完成项目信息分类统计的实现。<br/>目前该系统已交付甲方运行稳定，基本不需额外投入人力维护。
+      title: Java工程师
+      started: 2014
+      duration: (2014.01 - 2014.10)
+      description: 1.根据实际需求，完成系统Oracle报表统计功能修改，百万行级数据检索统计从2分钟优化到10秒内；将原系统web容器从tomcat调整到weblogic并配置ehcache，提升系统并发数不低于600，提高系统稳定性；<br/><br/>2.完成与国家政务内网系统webservice接口对接开发，采用spring+quartz实现定时采集Oracle数据并组织，然后调用webservice接口上传。目前系统已稳定运行一年无任何故障。<br/><br/>3.完成系统消息发布管理模块的设计与开发实现，完成项目信息分类统计的实现。<br/><br/>目前该系统已交付甲方运行稳定，基本不需额外投入人力维护。
 
   educationHistory:
     - education1:
-      organization: Shijiazhuang Tiedao University
+      organization: 石家庄铁道大学
       location: Shijiazhuang, China
-      degree: Bachelor
-      major: Software Engineering
+      degree: 本科
+      major: 计算机
       started: 2010
       duration: (2010 - 2014)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
