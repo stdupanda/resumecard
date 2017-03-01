@@ -78,6 +78,15 @@ author:
       started: 2010
       duration: (2010 - 2014)
       description: 所学课程包括LINUX/UNIX基础、操作系统、C语言程序设计、计算机算法导论、计算机网络等，受益颇深。<br/>参与了导师的几个项目。<br/>课程设计题目实现基于SIP协议的Android客户端。<br/>对待工作认真负责，善于沟通、协调，有较强的组织能力与团队精神；<br/>与人和善、乐观上进、有爱心愿意和他人沟通；<br/>上进心强、勤于学习能不断提高自身的能力与综合素质；<br/>积极向上，特别愿意向上争取发展空间.
+  技术总结:
+    - education1:
+      organization: 石家庄铁道大学
+      location: Shijiazhuang, China
+      degree: 本科
+      major: 计算机
+      started: 2010
+      duration: (2010 - 2014)
+      description: 所学课程包括LINUX/UNIX基础、操作系统、C语言程序设计、计算机算法导论、计算机网络等，受益颇深。<br/>参与了导师的几个项目。<br/>课程设计题目实现基于SIP协议的Android客户端。<br/>对待工作认真负责，善于沟通、协调，有较强的组织能力与团队精神；<br/>与人和善、乐观上进、有爱心愿意和他人沟通；<br/>上进心强、勤于学习能不断提高自身的能力与综合素质；<br/>积极向上，特别愿意向上争取发展空间.
   languages:
     - language1:
       name: Chinese
@@ -91,7 +100,7 @@ author:
       percentage: 100%
     - skill2:
       name: Javascript
-      percentage: 90%
+      percentage: 50%
     - skill3:
       name: Android
       percentage: 70%
