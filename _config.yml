@@ -32,42 +32,43 @@ author:
       title: Java工程师
       started: 2017
       duration: (2016.10 - Present)
-      description: 1.进行已有业务流程梳理，迁移旧的业务逻辑组件到Spring+MyBatis+Ehcache，实现事务控制和缓存优化，完成旧项目代码重构。<br/><br/>2.分析主要业务数据库结构，结合业务数据量实施分表策略，加快前台业务响应速度。<br/><br/>3.结合用户业务需求实现新功能的开发。
+      description: 1.梳理已有业务流程，使用SSM替换部分老旧业务代码以加速项目开发进度，降低系统各模块的耦合，增加事务控制保证业务数据安全性，增加业务数据缓存以优化系统响应速度。<br/><br/>2.分析大数据量业务对应的db表结构，结合业务数据量制定实施分表策略，优化数据存储并加快业务查询响应速度。<br/><br/>3.实现气象资料年报、元数据管理中心等模块业务分析与架构设计，跟进项目组成员进度、疑难问题，保证整体功能满足用户需求并上线实现稳定运行。
     - work2:
       company: 智能设备安卓App开发
       location: Shijiazhuang, China
       title: Java工程师
       started: 2016
       duration: (2016.09)
-      description: 1.负责App整体架构设计和功能实现。<br/><br/>2.调整后台线程策略实现通讯数据收发机制优化，优化性能消耗。<br/><br/>3.结合项目整理公司内部通用安卓App框架。
+      description: 1.负责App整体架构设计和功能实现。<br/><br/>2.调整后台线程策略实现通讯数据收发机制优化，优化性能降低CPU消耗10%。<br/><br/>3.整理总结公司内部通用安卓App框架。<br/><br/>
     - work3:
       company: 温湿度设备监控系统
       location: Shijiazhuang, China
       title: Java工程师
       started: 2016
       duration: (2016.03 - 2016.09)
-      description: 1.负责项目业务分析和框架设计，tomcat集群+DBCache保证多并发下的业务处理响应。<br/><br/>2.SSM实现系统各个业务功能并测试。<br/><br/>3.负责移动端API接口设计、安卓App的设计与开发和测试工作。<br/><br/>4.大并发量情况下调整db分表，优化实时监控功能的查询效率；采用Cache减轻mysql读取压力。
+      description: 1.负责项目业务分析和框架设计。<br/><br/>2.采用tomcat集群+DBCache满足较高并发下的业务处理要求，SSM实现系统各个业务功能。<br/><br/>3.负责移动端API接口设计、安卓App的设计、开发和测试优化工作。<br/><br/>4.大并发量情况下调整db分表，优化实时监控功能的查询效率；采用Cache减轻mysql读取压力。
     - work4:
       company: 省级证件信息管理系统
       location: Shijiazhuang, China
       title: Java工程师
       started: 2015
       duration: (2015.04 - 2016.02)
-      description: 1.负责spring+struts+mybatis架构实现证件录入、证件信息统计、分级权限绑定，UI采用DWZ实现。<br/><br/>2.负责oracle数据库维护、支持用户数据统计导出、excel导出。
+      description: 1.负责spring+struts+mybatis架构实现证件信息录入、多维信息查询统计与Highcharts图表展示、用户-角色-权限分级绑定，DWZ实现前台用户界面。<br/><br/>2.负责oracle数据库维护、定时备份、用户数据按需统计导出、excel导出。
     - work5:
       company: 省级人员信息管理系统
       location: Shijiazhuang, China
       title: Java工程师
       started: 2014
       duration: (2014.10 - 2015.04)
-      description: 1.负责ssh+easyui架构实现人员信息管理、分类信息统计、按角色审核操作。<br/><br/>2.负责部署RedHat服务器并配置nginx代理静态内容，tomcat提供业务系统动态访问支持，Apache提供对公众门户网站访问支持。
+      description: 1.负责ssh+easyui架构实现人员信息管理、分类信息统计、按角色审核操作。<br/><br/>2.部署RedHat到服务器并配置nginx代理静态内容，tomcat提供业务系统动态访问支持，Apache提供对公众门户网站访问支持。
     - work6:
       company: 省级投资项目管理系统
       location: Shijiazhuang, China
       title: Java工程师
       started: 2014
       duration: (2014.01 - 2014.10)
-      description: 1.根据实际需求，完成系统Oracle报表统计功能修改，百万行级数据检索统计从2分钟优化到10秒内；将原系统web容器从tomcat调整到weblogic并配置ehcache，提升系统并发数不低于600，提高系统稳定性；<br/><br/>2.完成与国家政务内网系统webservice接口对接开发，采用spring+quartz实现定时采集Oracle数据并组织，然后调用webservice接口上传。目前系统已稳定运行一年无任何故障。<br/><br/>3.完成系统消息发布管理模块的设计与开发实现，完成项目信息分类统计的实现。<br/><br/>目前该系统已交付甲方运行稳定，基本不需额外投入人力维护。
+      description: 1.根据实际需求，完成系统Oracle报表统计功能修改，百万行级数据检索统计从2分钟优化到10秒内；将原系统web容器从tomcat调整到weblogic并配置ehcache，提升系统并发数不低于600，提高系统稳定性；<br/><br/>2.完成与国家政务内网系统webservice接口对接开发，采用spring+quartz实现定时采集Oracle数据并组织，然后调用webservice接口上传。<br/>目前系统已稳定运行一年无任何故障。3.完成系统消息发布管理模块的设计与开发实现，完成项目信息分类统计的实现。<br/><br/>目前该系统已交付甲方运行稳定，基本不需额外投入人力维护。
+
   educationHistory:
     - education1:
       organization: 石家庄铁道大学
@@ -76,7 +77,7 @@ author:
       major: 计算机
       started: 2010
       duration: (2010 - 2014)
-      description: 所学课程包括LINUX/UNIX基础、操作系统、C语言程序设计、计算机算法导论、计算机网络等，受益颇深。<br/>参与了导师的几个项目。<br/>课程设计题目实现基于SIP协议的Android客户端。<br/>对待工作认真负责，善于沟通、协调，有较强的组织能力与团队精神；<br/>与人和善、乐观上进、有爱心愿意和他人沟通；<br/>上进心强、勤于学习能不断提高自身的能力与综合素质；<br/>积极向上，特别愿意向上争取发展空间.
+      description: 所学课程包括LINUX/UNIX基础、操作系统、C语言程序设计、数据结构、编译原理、计算机算法导论、计算机网络等，受益颇深。<br/>导师带领下参与基于trivium算法的能量攻击研究、某研究所通讯监控系统等项目。<br/>课程设计题目实现基于SIP协议的Android客户端。<br/>对待工作认真负责，善于沟通、协调，有较强的组织能力与团队精神；<br/>与人和善、乐观上进、有爱心愿意和他人沟通；<br/>上进心强、勤于学习能不断提高自身的能力与综合素质；<br/>积极向上，特别愿意向上争取发展空间.
   languages:
     - language1:
       name: Chinese
@@ -89,11 +90,11 @@ author:
       name: Java/Java EE
       percentage: 100%
     - skill2:
-      name: Javascript
-      percentage: 50%
+      name: Javascript/Html/EasyUI/DWZ
+      percentage: 60%
     - skill3:
       name: Android
-      percentage: 70%
+      percentage: 60%
     - skill4:
       name: Linux
       percentage: 70%
