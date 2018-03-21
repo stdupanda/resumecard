@@ -5,7 +5,7 @@ favicon: /assets/img/avatar2.ico
 baseurl: https://stdupanda.github.io/resumecard
 url: https://stdupanda.github.io/resumecard
 rss_url: /pages/atom.xml
-google_analytics: UA-85920043-1
+google_analytics: UA-85920043-1zzz
 # Build settings
 markdown: kramdown
 
@@ -77,7 +77,7 @@ author:
       major: 计算机
       started: 2010
       duration: (2010 - 2014)
-      description: 所学课程包括LINUX/UNIX基础、操作系统、C语言程序设计、数据结构、编译原理、计算机算法导论、计算机网络等，受益颇深。<br/>导师带领下参与基于trivium算法的能量攻击研究、某研究所通讯监控系统等项目。<br/>课程设计题目实现基于SIP协议的Android客户端。<br/>对待工作认真负责，善于沟通、协调，有较强的组织能力与团队精神；<br/>与人和善、乐观上进、有爱心愿意和他人沟通；<br/>上进心强、勤于学习能不断提高自身的能力与综合素质；<br/>积极向上，特别愿意向上争取发展空间.
+      description: 所学课程包括LINUX/UNIX基础、操作系统、C语言程序设计、数据结构、编译原理、计算机算法导论、计算机网络等，受益颇深。<br/>参与基于trivium算法的能量攻击研究、某研究所通讯监控系统等项目。<br/>课程设计题目实现基于SIP协议的Android客户端。<br/>对待工作认真负责，善于沟通、协调，有较强的组织能力与团队精神；<br/>与人和善、乐观上进、有爱心愿意和他人沟通；<br/>上进心强、勤于学习能不断提高自身的能力与综合素质；<br/>积极向上，特别愿意向上争取发展空间.
   languages:
     - language1:
       name: Chinese
@@ -91,10 +91,10 @@ author:
       percentage: 100%
     - skill2:
       name: Javascript/Html/EasyUI/DWZ
-      percentage: 60%
+      percentage: 70%
     - skill3:
-      name: Android
-      percentage: 60%
-    - skill4:
       name: Linux
       percentage: 70%
+    - skill4:
+      name: Android
+      percentage: 30%
