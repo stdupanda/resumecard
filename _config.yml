@@ -26,6 +26,13 @@ author:
 # stackoverflow:
 # stackoverflow: 4582127
   workHistory:
+  - work0:
+      company: 多区域城市公交云卡系统
+      location: Beijing, China
+      title: Java工程师
+      started: 2018
+      duration: (2017.03 - Present)
+      description: 1.优化已有业务流程，按模块拆分业务逻辑，简化功能具体实现<br/><br/>2.多区域云卡接口集成适配，对账、清算、公交系统拆分<br><br/>3.针对高峰期业务进行系统优化，提升系统并发性能
     - work1:
       company: 气象资料业务系统
       location: Shijiazhuang, China
