@@ -26,7 +26,7 @@ author:
 # stackoverflow:
 # stackoverflow: 4582127
   workHistory:
-  - work0:
+    - work0:
       company: 多区域城市公交云卡系统
       location: Beijing, China
       title: Java工程师
