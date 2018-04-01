@@ -97,10 +97,10 @@ author:
       name: Java/Java EE
       percentage: 100%
     - skill2:
-      name: Javascript/Html/EasyUI/DWZ
-      percentage: 70%
-    - skill3:
       name: Linux
+      percentage: 80%
+    - skill3:
+      name: Javascript/Html/EasyUI/DWZ
       percentage: 70%
     - skill4:
       name: Android
